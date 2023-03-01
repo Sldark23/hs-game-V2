@@ -1,0 +1,21 @@
+{
+  "name": "hs-game",
+  "version": "1.0.0",
+  "description": "um vídeo game no node",
+  "main": "3080.js",
+  "scripts": {
+    "vd-on": "node 3080.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hs-game"
+  },
+  "keywords": [
+    "hs-game"
+  ],
+  "author": "darkslwl",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
